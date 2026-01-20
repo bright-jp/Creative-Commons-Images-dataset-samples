@@ -1,4 +1,4 @@
-# Creative Commons Images Dataset Sample
+# Creative Commons Images データセットサンプル
 
 <h2>2,346件のレコードからなるサンプルデータセット</h2>
 
