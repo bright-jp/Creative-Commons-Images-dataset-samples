@@ -1,47 +1,47 @@
 # Creative Commons Images Dataset Sample
 
-<h2>A sample dataset of 2,346 records</h2>
+<h2>2,346件のレコードからなるサンプルデータセット</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.jp">
     <img src="https://github.com/luminati-io/Creative-Commons-Images-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Creative Commons Images Dataset Sample** includes **2,346 records** and was extracted using the **Bright Data API**.
+この **Creative Commons Images Dataset Sample** には **2,346件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The URL of the image's page on the source platform. |
-| `title` | The title or name of the image as provided on the source platform. |
-| `description` | A brief description of the image content, if available. |
-| `image_url` | The direct URL link to the image file. |
-| `creators` | Information about the creator(s) of the image, including names and optional URLs. |
-| `license` | The type of Creative Commons license under which the image is shared. |
-| `keyword` | Keywords associated with the image to aid in search and categorization. |
-| `type` | The file type of the image, such as JPEG. |
-| `domain` | The domain or platform where the image is hosted or originally published. |
-| `date_taken` | The date when the image was captured, if available. |
-| `dimensions` | The dimensions of the image, usually in pixels. |
+| `url` | ソースプラットフォーム上の画像ページのURLです。 |
+| `title` | ソースプラットフォームで提供されている画像のタイトルまたは名称です。 |
+| `description` | 利用可能な場合の、画像コンテンツの簡単な説明です。 |
+| `image_url` | 画像ファイルへの直接URLリンクです。 |
+| `creators` | 画像の作成者に関する情報（名前および任意のURLを含む）です。 |
+| `license` | 画像が共有されているCreative Commonsライセンスの種類です。 |
+| `keyword` | 検索およびカテゴリ分けを支援するために画像に関連付けられたキーワードです。 |
+| `type` | JPEGなどの画像のファイルタイプです。 |
+| `domain` | 画像がホストされている、または元々公開されたドメインまたはプラットフォームです。 |
+| `date_taken` | 利用可能な場合の、画像が撮影された日付です。 |
+| `dimensions` | 通常はピクセル単位の画像の寸法です。 |
 
 
 ## Use Cases
 
 ### 1. Content Creation
-Utilize Creative Commons images for enriching blog posts, articles, and social media content with visually appealing media.
+Creative Commons画像を活用して、ブログ投稿、記事、ソーシャルメディアコンテンツを視覚的に魅力的なメディアで充実させます。
 
 ### 2. Licensing Research
-Analyze the types of licenses under which images are shared to understand trends in Creative Commons usage.
+画像が共有されているライセンスの種類を分析し、Creative Commons利用におけるトレンドを把握します。
 
 ### 3. Image Metadata Analysis
-Conduct research on image metadata to enhance image recognition algorithms and improve search engine optimization strategies.
+画像メタデータに関する研究を行い、画像認識アルゴリズムを強化し、検索エンジン最適化戦略を改善します。
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+データセットは複数の形式で提供されています：
+- **CSV**（このサンプルに含まれています）
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -61,8 +61,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+データセットはさまざまなスケジュールで更新できます：
+- **Once**（一回限りの配信）
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -71,14 +71,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+お客様の特定の要件に基づき、追加のデータポイントでデータセットを強化できます。カスタムのエンリッチメントオプションについてはお問い合わせください。
 
-**[Get the full Creative Commons Images dataset](https://brightdata.com/products/datasets/image)**
+**[Get the full Creative Commons Images dataset](https://brightdata.jp/products/datasets/image)**
 
 ---
 
 ## Free Access for Researchers and NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Bright Initiativeは、環境および社会的な課題に取り組む学術研究者、NGO、NPO向けに、**[Web Scraper APIs](https://brightdata.jp/products/web-scraper)** および **[ready-to-use datasets](https://brightdata.jp/products/datasets)** への無料アクセスを提供しています。 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+無料アクセスの申請は [brightinitiative.com](https://brightinitiative.com) で行えます。
